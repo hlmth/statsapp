@@ -1,5 +1,7 @@
 data/*
 
+*.pth
+
 *.DS_Store
 *.pyc
 */__pycache__/*
